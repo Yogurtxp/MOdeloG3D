@@ -1,1 +1,0 @@
-# MOdeloG3D
